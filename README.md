@@ -1,4 +1,20 @@
+# Titanic Machine Learning - Beginner Challenge
+
+(English version here)
+
+This project is a simple machine learning model using decision trees to predict survival on the Titanic dataset.
+Steps:
+- Data cleaning
+- Feature engineering
+- Model training and evaluation
+- Prediction and submission file creation
+
+This project was my first step into machine learning 🚀✨
+
+
 # タイタニック 機械学習チャレンジ（初心者編）
+
+（日本語版はこちら）
 
 このプロジェクトは、タイタニック号の乗客データをもとに  
 機械学習モデル（決定木）を使って生存予測を行うシンプルな分析です！
